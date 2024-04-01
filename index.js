@@ -7,7 +7,7 @@ const remained = document.getElementById("remained");
 updateBigcup();
 
 smallCups.forEach((cup,idx)=>{
-    console.log(cup, idx )
+    // console.log(cup, idx )
     cup.addEventListener('click' , ()=>{
         highlightCups(idx)
     })
