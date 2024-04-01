@@ -4,7 +4,7 @@
   --border-color: #144fc6;
   --fill-color: #6ab3f8;
 }
-
+ 
 * {
   box-sizing: border-box;
 }
@@ -51,7 +51,7 @@ h3 {
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin: 5px;
+  margin: 5.9px;
   transition: 0.3s ease;
 }
 
